@@ -1,3 +1,17 @@
+---
+name: seo
+description: Audit, standardize, and improve SEO implementations for modern web applications following Google Search best practices.
+version: 0.1.0
+tags:
+  - seo
+  - search
+  - metadata
+  - canonical
+  - sitemap
+  - robots
+  - structured-data
+---
+
 # SEO Standard Skill
 
 ## Purpose
