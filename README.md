@@ -59,6 +59,17 @@ Workflows should adapt to the current project instead of assuming:
 * programming languages
 * frameworks
 
+## Installation
+
+Install the workflow collection:
+
+```bash
+npx skills add https://github.com/andriansandi/boring-code
+```
+
+Or clone it manually into your local skills directory.
+
+
 ## Available Workflows
 
 | Workflow     | Description                                                                                          | Status |
